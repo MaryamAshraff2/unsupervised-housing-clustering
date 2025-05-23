@@ -15,4 +15,4 @@ This project demonstrates unsupervised clustering techniques (K-Means, K-Medoids
 - `housing.csv` is a synthetic dataset containing features such as price, location, size, etc.
 
 ## Running the Notebooks
-Open each notebook in Google Colab to view results interactively.
+Open each notebook in Google Colab to view results interactively or download the file and upload the .ipynb file on colab or jupiter notebook.
