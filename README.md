@@ -1,7 +1,7 @@
 # Housing Clustering Project 
 
 This project demonstrates unsupervised clustering techniques (K-Means, K-Medoids, and DBSCAN) applied to the same housing dataset (`housing.csv`). Each notebook includes:
-
+- Exploratory Data Analysis
 - Data preprocessing and feature selection
 - Clustering using the respective algorithm
 - Visualization of clusters using PCA
